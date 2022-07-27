@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @madhvipatel567
-- 👀 I’m interested in Node JS
-- 🌱 I’m currently learning ReactJS
-- 📫 How to reach me madhavigabani@gmail.com
+👋 Hi there, I'm Madhavi Dobariya
+
+- 👀 I’m currently working on Node JS, ReactJS
+- 🌱 I’m currently learning Blockchain 
+- 📖 Eager to learn new stuff
+- 📫 How to reach me madhavigabani@gmail.com 
+- 🌙 Fun fact: I love dark theme everywhere.
 
 <!---
 madhvipatel567/madhvipatel567 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
